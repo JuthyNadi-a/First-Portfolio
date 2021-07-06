@@ -11,18 +11,27 @@ section{
 h1{
     font-size: 80px;
 }
+p{
+    margin-bottom: 30px;
+}
 .half-width{
     width: 50%;
     padding-left: 5%;
+    margin-bottom: 100px;
 }
 .link-button{
     text-decoration: none;
     background-image: linear-gradient( cyan, rgb(17, 151, 192));
     color: white;
     font-weight: 700;
-    border-radius: 20px;
-    padding: 10px 20px;
+    border-radius: 15px;
+    padding: 10px 15px;
 }
 .half-width img{
-    width: 100%;
+    width: 80%;
+}
+.background{
+    background-image: url(images/Frame\ 57.jpg);
+    background-repeat: no-repeat;
+    background-size: 1350px;
 }
